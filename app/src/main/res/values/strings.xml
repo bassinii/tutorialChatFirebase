@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">INSEX</string>
+    <string name="action_settings">Configurações</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="login_register">Novo Usuário, Cadastre-se aqui!</string>
+    <string name="register">Registrar</string>
+
+    <string name="user_successfully_added">Usuário adicionado com sucesso!</string>
+    <string name="user_unable_to_add">Falha ao adicionar usuário!</string>
+    <string name="adding_user_to_db">Adicionando usuário ao banco de dados.</string>
+    <string name="loading">Carregando.</string>
+    <string name="please_wait">Por favor aguarde...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Entre com a menssagem...</string>
+    <string name="action_logout">Sair</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Sair</string>
+    <string name="are_you_sure">Tem certeza?</string>
+    <string name="cancel">Cancelar</string>
+</resources>
